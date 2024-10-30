@@ -1,0 +1,1 @@
+<p class="mwpcopyright"><?php echo esc_html__("Developed by", "checkout-mestres-wp"); ?> <a href="http://www.mestresdowp.com.br" target="blank">Mestres do WP</a></p>

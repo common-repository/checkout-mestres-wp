@@ -1,0 +1,29 @@
+.cwmp-notice {
+	
+	border:1px solid #CCC;
+	display:flex;
+	justify-content: space-between;
+	padding:15px;
+	align-items:center;
+	padding:20px !important;
+}
+.cwmp-notice p {
+	color:#FFF;
+	text-transform:uppercase;
+	font-size:1.2em;
+	font-weight:500;
+	letter-spacing:0.5px;
+	display:flex;
+	align-items:center;
+}
+.cwmp-notice p svg  { margin-right:20px;}
+.cwmp-notice a {
+	display:block;
+	background:#FFF;
+	
+	padding:10px 35px;
+	text-decoration:none;
+	text-transform:uppercase;
+	border-radius:5px;
+	font-weight:700;
+}
